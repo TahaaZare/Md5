@@ -21,5 +21,5 @@ A simple Python script to convert your text into MD5 hash.
 ### English:
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/TahaaZare/Md5.git](https://github.com/TahaaZare/Md5.git)
+   git clone https://github.com/TahaaZare/Md5.git
    cd Md5
